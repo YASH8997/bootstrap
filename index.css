@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("security.webp");
+    color:black;
+   }
+   .sectite{
+       font-size: 40px;
+   }
+   .pera{
+       margin-left: 30px;
+       margin-right: 30px;
+       margin-bottom: 30px;
+   }
+  .whatswebhead{
+      background-color:lightseagreen;
+      height: 200px;
+      width: 100%;
+      text-align: justify;
+      color: lightyellow;
+      font-size: 40px;
+  } 
+  .container
+  {
+      background-color: whitesmoke;
+  }
+  
